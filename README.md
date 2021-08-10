@@ -29,6 +29,8 @@ Let's get right into it by having a fresh copy of 🏗 scaffold-eth master branc
 git clone https://github.com/austintgriffith/scaffold-eth.git commit-reveal-app
 
 cd commit-reveal-app
+
+git checkout commit-reveal-with-frontend
 ```
 
 ```
